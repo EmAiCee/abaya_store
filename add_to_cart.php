@@ -1,3 +1,4 @@
+
 <?php
 session_start();
 include 'db_connect.php';
@@ -16,7 +17,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $_SESSION['cart'][$product_id] = $quantity;
     }
 
-    header('Location: ex.php');
+    header('Location: index.php');
     exit();
 }
 ?>
+
+
