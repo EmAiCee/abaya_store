@@ -44,9 +44,9 @@ $orders = $conn->query($sql);
     <!-- Optional filter buttons -->
     <div class="mb-3">
         <a href="index.php" class="btn btn-outline-primary btn-sm">All</a>
-        <a href="index.php?filter=pending" class="btn btn-outline-warning btn-sm">Pending</a>
-        <a href="index.php?filter=shipped" class="btn btn-outline-info btn-sm">Shipped</a>
-        <a href="index.php?filter=delivered" class="btn btn-outline-success btn-sm">Delivered</a>
+        <a href="index.php?filter=pending" class="btn btn-outline-warning btn-sm">Pending orders</a>
+        <a href="index.php?filter=shipped" class="btn btn-outline-info btn-sm">Shipped order</a>
+        <a href="index.php?filter=delivered" class="btn btn-outline-success btn-sm">Delivered orders</a>
     </div>
 
     <table class="table table-bordered table-striped">
