@@ -9,5 +9,7 @@ NABILA KABIR ABUBAKAR >NAS/STE/21/1060 : she contributed to the logic that saves
 
 MUSTAPHA IBRAHIM GALADIMA >NAS/STE/21/1058: he contributed to the delete functionality from our db as an amin.
 
-ABUBAKAR ADAM >NAS/STE/21/1023 : he helped  with the admin header and side bar.
+ABUBAKAR ADAM >NAS/STE/21/1022 : he helped  with the admin header and side bar.
+added a a greeting message to the index page.
 
+YUSUF HASSAN >NAS/STE/20/1038 : Added a time-based greeting feature to the home page
