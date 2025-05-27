@@ -1,3 +1,4 @@
+
 <?php
 session_start();
 include  'db_connect.php';
@@ -35,3 +36,4 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_SESSION['cart'])) {
     }
 }
 ?>
+
