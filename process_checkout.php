@@ -31,7 +31,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_SESSION['cart'])) {
         
     } catch (Exception $e) {
         $conn->rollback();
-        die("Error processing order: " . $e->getMessage());
+        die("Sorry, Error processing: " . $e->getMessage());
     }
 }
 ?>
