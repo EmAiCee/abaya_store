@@ -26,7 +26,7 @@ $sql .= " GROUP BY o.order_id ORDER BY o.order_date DESC";
 $orders = $conn->query($sql);
 ?>
 
-<?php include __DIR__ . '/../header.php';
+<?php include _DIR_ . '/../header.php';
  ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -93,4 +93,3 @@ $orders = $conn->query($sql);
  
 </body>
 </html>
-
