@@ -22,4 +22,3 @@ HAMZA ABUBAKAR >NAS/STE/21/1053 : contributed on authenticating users before hav
 
 AMIR HASSAN MOHAMMED >NAS/STE/21/1063 : worked on inserting products into user's cart and delete products from carts
 
-MUHAMMAD MUHAMMAD MURTALA >NAS/STE/21/1046  : 
