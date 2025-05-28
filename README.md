@@ -17,9 +17,11 @@ YUSUF HASSAN >NAS/STE/20/1038 : Added a time-based greeting feature to the home 
 
 SHEHU ABUBAKAR BELLO >NAS/STE/21/1052 : conributed to the orders page.
 
-SADIQ UMMULHANEE HASSAN >NAS/STE/21/1061 : worked on the users checkout logic .
+SADIQ UMMULHANEE HASSAN >NAS/STE/21/1062 : worked on the users checkout logic .
 
 HAMZA ABUBAKAR >NAS/STE/21/1053 : contributed on authenticating users before having access to dashboards
 
 AMIR HASSAN MOHAMMED >NAS/STE/21/1063 : worked on inserting products into user's cart and delete products from carts
+
+BELLO UMMULKHAIRI LAWAL  >NAS/STE/21/1061 : contributed to the admin side bar and enhanced the styles to be more responsive
 
