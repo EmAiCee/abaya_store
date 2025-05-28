@@ -1,4 +1,5 @@
 contributors goes here:
+
 MUHAMMED MUSA ALGONI   >NAS/STE/21/1020(Lead): created the folder struture of the project , created the DB and gave each member a task to carry  and also helped with some modifications.
 
 MUHAMMED BUKHARI ABDULLAHI >NAS/STE/21/1131 :  worked on users registration and login logic
