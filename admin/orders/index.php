@@ -78,7 +78,7 @@ $orders = $conn->query($sql);
                             $order['status'] == 'pending' ? 'warning' : 
                             ($order['status'] == 'shipped' ? 'info' : 'success') 
                         ?>">
-                            <?= ucfirst($order['status']) ?>
+                        <?= ucfirst($order['status']) ?>
                         </span>
                     </td>
                     <td><?= date('M d, Y H:i', strtotime($order['order_date'])) ?></td>
