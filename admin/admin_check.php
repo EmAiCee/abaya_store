@@ -8,5 +8,5 @@ if ($_SESSION['role'] !== 'admin') {
 }
 
 // Update last activity time
-$_SESSION['last_activity'] = time();
+$_SESSION['last_activity'] = time();
 ?>
